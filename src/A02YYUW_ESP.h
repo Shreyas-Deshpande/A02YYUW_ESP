@@ -1,5 +1,5 @@
-#ifndef A02YYUW_H
-#define A02YYUW_H
+#ifndef A02YYUW_ESP_H
+#define A02YYUW_ESP_H
 
 
 #include <Arduino.h>

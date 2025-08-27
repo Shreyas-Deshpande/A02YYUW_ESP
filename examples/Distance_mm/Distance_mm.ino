@@ -1,4 +1,4 @@
-#include "A02YYUW.h"
+#include "A02YYUW_ESP.h"
 
 #define WATER_LEVEL_MIN 20 // In Percent
 #define WATER_LEVEL_MAX 80 // In Percent
